@@ -9,7 +9,7 @@
 
 | #   | Project    | Live Demo | Description                             |
 | --- | ---------- | --------- | --------------------------------------- |
-| 01  | **Navbar** | [Live]()  | یک نوار ناوبری رسپانسیو با منوی همبرگری |
+| 01  | **Navbar** | [Live]( https://arina-fathian.github.io/Frontend-Sandbox/hamburger-navbar)  | یک نوار ناوبری رسپانسیو با منوی همبرگری |
 
 ---
 
