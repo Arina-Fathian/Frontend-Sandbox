@@ -3,10 +3,38 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/font.css" />
+
     <title>Hamburger Navbar</title>
   </head>
   <body>
+    <div class="container">
+      <header class="header">
+        <span class="navbar__logo"
+          ><img src="/assets/image/1.svg" alt=""
+        /></span>
+        <nav class="navbar--container">
+          <ul class="navbar__list">
+            <li class="navbar__item"><a href="/"></a>خانه</li>
+            <li class="navbar__item"><a href="/myworks"></a>نمونه‌کارها</li>
+            <li class="navbar__item"><a href="/about"></a>درباره ما</li>
+            <li class="navbar__item"><a href="/contact"></a>تماس با ما</li>
+          </ul>
+        </nav>
+        <label class="hamburger--icon active">
+          <input type="checkbox" name="" id="ham-icon" />
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+      </header>
+    </div>
+    <h1 class="msg">! hamburger navbar !</h1>
     <script src="script.js"></script>
   </body>
 </html>
