@@ -9,7 +9,6 @@ This is a simple and responsive **FAQ Accordion Section**. Clicking on each ques
 ## Preview | پیش‌نمایش
 
 ![FAQ Screenshot](./faq-section.png) 
-![FAQ Screenshot](./mobile-FAQ.png)
 
 ---
 
