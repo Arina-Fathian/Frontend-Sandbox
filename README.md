@@ -7,9 +7,10 @@
 
 ## 📂 پروژه‌ها
 
-| #   | Project    | Live Demo | Description                             |
-| --- | ---------- | --------- | --------------------------------------- |
-| 01  | **Navbar** | [Live]( https://arina-fathian.github.io/Frontend-Sandbox/hamburger-navbar)  | یک نوار ناوبری رسپانسیو با منوی همبرگری |
+| #   | Project         | Live Demo                                                                 | Description                             |
+| --- | --------------- | ------------------------------------------------------------------------- | --------------------------------------- |
+| 01  | **Navbar**      | [Live](https://arina-fathian.github.io/Frontend-Sandbox/hamburger-navbar) | یک نوار ناوبری رسپانسیو با منوی همبرگری |
+| 02  | **FAQ-Section** | [Live](https://arina-fathian.github.io/Frontend-Sandbox/FAQ-section)      | سکشن سوالات متداول (آکاردیونی )         |
 
 ---
 
